@@ -1,7 +1,7 @@
 # Isaaza
 My first 'game' - A self written text adventure, programmed in C#
 
-"What would you do if your beloved food was banned? 
+" What would you do if your beloved food was banned? 
 
 What lengths would you go to get another taste? 
 
