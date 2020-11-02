@@ -1,0 +1,7 @@
+C:\Users\Sehun\source\repos\Isaaza\bin\Debug\Isaaza.exe.config
+C:\Users\Sehun\source\repos\Isaaza\bin\Debug\Isaaza.exe
+C:\Users\Sehun\source\repos\Isaaza\bin\Debug\Isaaza.pdb
+C:\Users\Sehun\source\repos\Isaaza\obj\Debug\Isaaza.csproj.CoreCompileInputs.cache
+C:\Users\Sehun\source\repos\Isaaza\obj\Debug\Isaaza.exe
+C:\Users\Sehun\source\repos\Isaaza\obj\Debug\Isaaza.pdb
+C:\Users\Sehun\source\repos\Isaaza\obj\Debug\Isaaza.csprojResolveAssemblyReference.cache
